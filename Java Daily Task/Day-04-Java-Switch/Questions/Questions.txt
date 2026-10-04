@@ -1,0 +1,23 @@
+JAVA DAILY TASKS
+DAY 04 - JAVA SWITCH
+
+Task 01:
+Write a Java program to accept two numbers and an operator
+(+, -, *, /) and perform the operation using switch.
+
+Task 02:
+Write a Java program to accept a number from 1 to 7 and
+display the corresponding day of the week using switch.
+
+Task 03:
+Write a Java program to accept a month number from 1 to 12
+and display the corresponding month name using switch.
+
+Task 04:
+Write a Java program to accept a traffic signal color
+(red, yellow, green) and display the appropriate instruction
+using switch.
+
+Task 05:
+Create a simple food menu using switch. Display the food
+name and price based on the user's choice.
