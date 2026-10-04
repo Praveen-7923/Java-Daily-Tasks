@@ -13,7 +13,7 @@ Today I practiced the `switch` statement in Java by creating simple menu-based a
 * Character input
 * String input
 * Menu-based programs
-* User input using `Scanner`
+* User input using `Scanner` 
 
 ## 📂 Folder Structure
 
