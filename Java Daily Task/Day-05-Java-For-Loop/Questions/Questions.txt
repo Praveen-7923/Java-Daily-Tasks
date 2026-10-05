@@ -1,0 +1,17 @@
+JAVA DAILY TASKS
+DAY 05 - JAVA FOR LOOP
+
+Task 01:
+Write a Java program using a for loop to print numbers from 1 to 10.
+
+Task 02:
+Write a Java program using a for loop to print all even numbers from 1 to 20.
+
+Task 03:
+Write a Java program to accept a number from the user and print its multiplication table from 1 to 10.
+
+Task 04:
+Write a Java program to accept a number N and find the sum of numbers from 1 to N.
+
+Task 05:
+Write a Java program to accept a number from the user and find its factorial using a for loop.
