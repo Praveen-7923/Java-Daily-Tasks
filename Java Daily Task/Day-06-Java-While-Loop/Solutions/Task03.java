@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Task03 {
     public static void main(String[] args) {
 
@@ -18,6 +19,7 @@ public class Task03 {
         }
 
         System.out.println("Sum of digits = " + sum);
+        
 
         sc.close();
     }
