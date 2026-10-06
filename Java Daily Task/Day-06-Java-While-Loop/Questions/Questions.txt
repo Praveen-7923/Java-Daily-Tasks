@@ -1,0 +1,26 @@
+JAVA DAILY TASKS
+DAY 06 - JAVA WHILE / DO-WHILE LOOPS
+
+Task 01:
+Write a Java program using a while loop to print numbers from 1 to 10.
+
+Task 02:
+Write a Java program using a while loop to print all odd numbers from 1 to 20.
+
+Task 03:
+Write a Java program to accept a number and find the sum of its digits using a while loop.
+
+Task 04:
+Write a Java program to accept a number and reverse the number using a while loop.
+
+Task 05:
+Create a simple calculator using a do-while loop.
+
+Display:
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Exit
+
+The program should continue running until the user chooses Exit.
