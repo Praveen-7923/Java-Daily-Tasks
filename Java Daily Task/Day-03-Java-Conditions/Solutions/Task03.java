@@ -9,6 +9,7 @@ public class Task03 {
         System.out.print("Enter your age: ");
         int age = sc.nextInt();
 
+        
         if (age >= 18) {
             System.out.println("You are eligible to vote.");
         } 
