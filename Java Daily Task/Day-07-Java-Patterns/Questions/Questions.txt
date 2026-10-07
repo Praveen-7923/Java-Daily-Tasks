@@ -1,0 +1,39 @@
+# JAVA DAILY TASKS
+
+## DAY 07 – NESTED LOOPS & PATTERNS
+
+**Task 01 – Right-Angled Star Pattern**
+
+Write a Java program using nested `for` loops to print a right-angled triangle of stars with 5 rows.
+
+**Task 02 – Inverted Star Pattern**
+
+Write a Java program to print an inverted triangle of stars with 5 rows.
+
+**Task 03 – Number Triangle**
+
+Write a Java program to print the following pattern:
+
+```text
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
+
+**Task 04 – Repeated Number Triangle**
+
+Write a Java program to print the following pattern:
+
+```text
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+```
+
+**Task 05 – Pyramid Star Pattern**
+
+Write a Java program using nested loops to print a centered star pyramid with 5 rows.
