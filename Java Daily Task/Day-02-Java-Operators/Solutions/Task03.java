@@ -7,7 +7,7 @@ public class Task03 {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter total seconds: ");
-        int totalSeconds = sc.nextInt();
+        int totalSeconds = sc.nextInt();  
 
         int hours = totalSeconds / 3600;
 
