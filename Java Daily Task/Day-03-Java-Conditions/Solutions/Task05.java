@@ -12,6 +12,7 @@ public class Task05 {
         System.out.print("Enter second number: ");
         int num2 = sc.nextInt();
 
+        
         if (num1 > num2) {
             System.out.println("Larger number = " + num1);
         } 
