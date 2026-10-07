@@ -6,6 +6,7 @@ public class Task04 {
 
         Scanner sc = new Scanner(System.in);
 
+        
         System.out.print("Enter Basic Salary: ");
         double basicSalary = sc.nextDouble();
 
