@@ -1,6 +1,6 @@
 # JAVA DAILY TASKS
 
-## DAY 08 – JAVA METHODS
+## DAY 08 – JAVA METHODS 
 
 Task 01:
 Create a method called greet() that prints a welcome message.
