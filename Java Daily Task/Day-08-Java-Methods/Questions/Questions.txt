@@ -1,0 +1,26 @@
+# JAVA DAILY TASKS
+
+## DAY 08 – JAVA METHODS
+
+Task 01:
+Create a method called greet() that prints a welcome message.
+Call the method from main().
+
+Task 02:
+Create a method called displayName() that accepts a name
+and prints a welcome message.
+
+Task 03:
+Create a method called addNumbers() that accepts two integers
+and returns their sum.
+
+Task 04:
+Create a method called isEven() that accepts a number and
+returns true if the number is even.
+
+Task 05:
+Create separate methods for addition, subtraction,
+multiplication, and division.
+
+Accept two numbers from the user and display the results
+using the methods.
