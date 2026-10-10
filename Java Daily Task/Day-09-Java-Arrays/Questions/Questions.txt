@@ -1,0 +1,23 @@
+# JAVA DAILY TASKS
+
+## DAY 09 – JAVA ARRAYS
+
+**Task 01 – Declare and Print an Array**
+
+Create an integer array containing five numbers and print every element using a for loop.
+
+**Task 02 – Accept and Print Five Numbers**
+
+Accept five integers from the user, store them in an array, and print all the elements.
+
+**Task 03 – Sum and Average**
+
+Accept five numbers into an array and calculate their sum and average.
+
+**Task 04 – Find the Largest Number**
+
+Accept five integers into an array and find the largest number.
+
+**Task 05 – Linear Search**
+
+Accept five integers and a target number. Check whether the target exists in the array and display the appropriate message.
