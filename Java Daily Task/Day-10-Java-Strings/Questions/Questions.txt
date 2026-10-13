@@ -1,0 +1,22 @@
+# JAVA DAILY TASKS
+## DAY 10 – JAVA STRINGS
+
+**Task 01 – String Length and Uppercase**
+
+Accept a sentence and display its length and uppercase version.
+
+**Task 02 – Count Vowels and Consonants**
+
+Accept a sentence and count its vowels and consonants. Ignore spaces, digits, and punctuation.
+
+**Task 03 – Reverse a String**
+
+Accept a string and print it in reverse order.
+
+**Task 04 – Palindrome String**
+
+Accept a word and check whether it is a palindrome. Ignore letter case.
+
+**Task 05 – Count Words**
+
+Accept a sentence and count the number of words. Treat multiple spaces between words as a single separator. 
