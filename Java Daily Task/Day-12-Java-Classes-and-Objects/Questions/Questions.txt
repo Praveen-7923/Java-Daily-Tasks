@@ -1,0 +1,11 @@
+# Day 12 – Java Classes and Objects
+
+Task 01: Create a Student class with name, age, and department. Create an object and display its details.
+
+Task 02: Create an Employee class with employee ID, name, and salary. Display the employee details.
+
+Task 03: Create a Calculator class with an add() method that accepts two integers and returns their sum.
+
+Task 04: Create a Rectangle class with length and width fields. Calculate and display the area.
+
+Task 05: Create two Student objects with different details and display both students' information.
