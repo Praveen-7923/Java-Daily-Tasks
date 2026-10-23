@@ -1,8 +1,9 @@
 # 📚 Day-wise Practice
 
+
 ## 🟢 Day 01 - Java Fundamentals
 
-Topics covered:
+Topics covered:  
 
 - Java Program Structure
 - `main()` Method
@@ -84,3 +85,4 @@ Topics covered:
 **5 Tasks Completed**
 
 📂 [View Day 05](Java%20Daily%20Task/Day-05-Java-For-Loop/)
+
