@@ -10,7 +10,7 @@ Topics covered:
 - Variables
 - Data Types
 - User Input
-- Basic Output
+- Basic Output 
 - Basic Calculations
 
 **5 Tasks Completed**
