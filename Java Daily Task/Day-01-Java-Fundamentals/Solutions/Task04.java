@@ -6,10 +6,10 @@ public class Task04 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter first number: ");
+        System.out.print("Enter the first number: ");
         int num1 = sc.nextInt();
 
-        System.out.print("Enter second number: ");
+        System.out.print("Enter the second number: ");
         int num2 = sc.nextInt();
 
         System.out.println("Addition       = " + (num1 + num2));
