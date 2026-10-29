@@ -1,11 +1,12 @@
-# 📚 Day-wise Practice
+#📚 Day-wise Practices
 
 
-## 🟢 Day 01 - Java Fundamentals
+##🟢 Day 01 - Java Fundamentals
 
 Topics covered:  
 
-- Java Program Structure
+- Java Program Structures
+
 - `main()` Method
 - Variables
 - Data Types
@@ -19,7 +20,7 @@ Topics covered:
 
 ---
 
-## 🟢 Day 02 - Java Operators
+##🟢Day 02 - Java Operators
 
 Topics covered:
 
