@@ -1,21 +1,25 @@
 JAVA DAILY TASKS
 DAY 01 - JAVA FUNDAMENTALS
+   
+Task 01:  
 
-Task 01:
 Write a Java program to print "Hello, Java!" on the screen.
 
 Task 02:
+
 Write a Java program to store and display the following student details:
 Name
 Age
 College Name
-Department
+Department 
 
-Task 03:
+Task 03: 
+
 Write a Java program to accept two numbers from the user
-and calculate their sum.
+and calculate their sum. 
 
 Task 04:
+
 Write a Java program to accept two numbers from the user
 and perform:
 1. Addition
@@ -25,6 +29,7 @@ and perform:
 5. Remainder
 
 Task 05:
+
 Write a Java program to accept marks of 5 subjects
 and calculate:
 1. Total Marks
