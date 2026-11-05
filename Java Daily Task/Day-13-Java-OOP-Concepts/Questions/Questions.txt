@@ -1,0 +1,11 @@
+# Day 13 – Java OOP Concepts
+
+Task 01: Create a BankAccount class with a private balance variable. Implement deposit and display methods. (Encapsulation)
+
+Task 02: Create an Animal parent class with an eat() method. Create a Dog child class with a bark() method. (Inheritance)
+
+Task 03: Create a Calculator class with three overloaded add() methods using different parameters. (Compile-time Polymorphism)
+
+Task 04: Create a Vehicle parent class with a start() method. Override it in a Car child class. (Runtime Polymorphism)
+
+Task 05: Create an abstract Shape class with an abstract area() method. Implement it in a Circle class. (Abstraction)
