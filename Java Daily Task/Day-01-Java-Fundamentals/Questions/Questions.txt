@@ -3,11 +3,11 @@ DAY 01 - JAVA FUNDAMENTALS
    
 Task 01:  
 
-Write a Java program to print "Hello, Java!" on the screen.
+Write a Java program to print "Hello, Java!" on the screen.  
 
 Task 02:
-
-Write a Java program to store and display the following student details:
+  
+Write a Java program to store and display the following student details:  
 Name
 Age
 College Name
